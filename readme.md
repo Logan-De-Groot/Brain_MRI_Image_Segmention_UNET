@@ -9,4 +9,6 @@ The U-Net model was trained on the entire training set for 20 epochs and produce
 
 ![image](images/comparisons.png)
 
+To use this network everything is handled by the `runner.py` file. To train and generate your own model simply run the file. To generate a comparison image run with the command `python3 runner.py show`
+
 The model is available upon request. 
