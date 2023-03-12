@@ -7,6 +7,6 @@ https://cloudstor.aarnet.edu.au/plus/s/tByzSZzvvVh0hZA
 
 The U-Net model was trained on the entire training set for 20 epochs and produced the following outputs:
 
-![image](\images\comparisons.png)
+![image](images/comparisons.png)
 
 The model is available upon request. 
