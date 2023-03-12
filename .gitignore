@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+keras_png_slices_data
+Segmentation_Model
 
 # Distribution / packaging
 .Python
@@ -127,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+keras*
